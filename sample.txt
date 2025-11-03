@@ -1,0 +1,5 @@
+Hello world
+This is a sample text file
+It contains several lines
+Searching within files is fun
+Keyword: OpenAI

@@ -1,0 +1,16 @@
+{
+  "servers": [
+    {
+      "id": "open-library",
+      "name": "Open Library MCP",
+      "entry": "E:/mcp/build/index.js",
+      "proxy": {
+        "address": "127.0.0.1:6277",
+        "sessionToken": "77363c07093be47b5f673f363e4ef4d68b36e8334b720a1ec6a61c619702b590"
+      },
+      "requestTimeout": 10000,
+      "maxTotalTimeout": 60000,
+      "resetTimeoutOnProgress": true
+    }
+  ]
+}
