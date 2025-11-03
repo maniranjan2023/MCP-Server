@@ -18,7 +18,7 @@ Fetches book data by a given author name from the Open Library API.
 
 ```json
 {
-  "author": "J.K. Rowling"
+  "author": "tolkien"
 }
 ```
 
@@ -110,7 +110,7 @@ For `search_author`:
 
 ```json
 {
-  "author": "J.R.R. Tolkien"
+  "author": "tolkien"
 }
 ```
 
