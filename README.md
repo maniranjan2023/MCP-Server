@@ -134,5 +134,5 @@ MIT License © 2025
 ## 👨‍💻 Author
 
 **Your Name**
-📧 [your.email@example.com](mailto:maniranjan1512@gmail.com)
-🌐 [github.com/yourusername](https://github.com/maniranjan2023)
+📧 [maniranjan1512@gmail.com](mailto:maniranjan1512@gmail.com)
+🌐 [github.com/maniranjan2023](https://github.com/maniranjan2023)
